@@ -170,7 +170,7 @@ footer a {
 #modal {
     background: #FF5E84;
 
-    position: absolute;
+    position: fixed;
     top: 0;
 
     bottom: 0;
@@ -188,7 +188,7 @@ footer a {
 }
 
 #modal .content {
-    margin-top: 15%;
+    margin-top: 5%;
 
     color: white;
 }
